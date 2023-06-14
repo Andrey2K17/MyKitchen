@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.pg13.mycitchen.ui.main.MainFragment"
+        android:name="com.pg13.mycitchen.ui.categories.MainFragment"
         android:label="MainFragment" />
 </navigation>

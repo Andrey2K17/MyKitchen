@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">MyCitchen</string>
+
     <string name="main">Главная</string>
     <string name="search">Поиск</string>
     <string name="cart">Корзина</string>
     <string name="account">Аккаунт</string>
+
+    <string name="dialog_title_error">Ошибка</string>
+    <string name="dialog_button_ok" >OK</string>
 </resources>
